@@ -1,0 +1,6 @@
+start playfair.exe -s../guten3000_6.sts -xplayfair -nnproper.txt -pproper.txt -unumeric.txt -S -fx -i2 ^
+  -l2.4 -h3.0 -cwait DBAQIHKNRWVBKWNADQWRAMOQIY ^
+  -l2.4 -h3.0 -cstay ZXLSEWHCHUCELQOEPNYRIWYCVQLS ^
+  -l2.4 -h3.0 -ctakethe SXCREDBQUGVZRSMNDSIKRKWRSGNSNXVM ^
+  -l2.5 -h3.0 -cmeet OFFCERVUMWMOOMRUFIWCMAOGFVZYFXYBHGUXZVEH ^
+  -l2.4 -h3.0 -cwhile MQVSKPEVUKBAWKTPKPPNAUNUNEGLUZTYUZLYGCTZKNKUSTAGCTNQ ^
